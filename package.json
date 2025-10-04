@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "name": "nginx-demo-project",
+  "version": "1.0.0",
+  "description": "demo project for learning nginx",
+  "main": "server.js",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "scripts": {
+    "dev": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/anujsamdariya07/nginx-demo-project"
+  },
+  "author": "anujsamdariya07",
+  "license": "ISC"
+}
